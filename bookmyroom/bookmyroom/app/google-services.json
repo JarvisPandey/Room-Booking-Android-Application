@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1023938066730",
+    "firebase_url": "https://searchroom-9d324.firebaseio.com",
+    "project_id": "searchroom-9d324",
+    "storage_bucket": "searchroom-9d324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023938066730:android:54fd3c2309fa36d1",
+        "android_client_info": {
+          "package_name": "com.example.shubhampandey.bookmyroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023938066730-dj79hvaei8s2q85n7pjp6a1hpg8sp8ep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shubhampandey.bookmyroom",
+            "certificate_hash": "71000d0b2c3b8b11bca96ab9b4e1db7d86f5f9b3"
+          }
+        },
+        {
+          "client_id": "1023938066730-fg10d6kgv6sa0o17qh89ksqaqv0oulrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMNvD4C0mlsVLMFQW5Fl7hdhUSxYGSwpM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023938066730-fg10d6kgv6sa0o17qh89ksqaqv0oulrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

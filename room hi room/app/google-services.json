@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "816388995245",
+    "firebase_url": "https://abcd-d48b7.firebaseio.com",
+    "project_id": "abcd-d48b7",
+    "storage_bucket": "abcd-d48b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816388995245:android:51a9eb3d6504cf36",
+        "android_client_info": {
+          "package_name": "com.example.shubhampandey.abcd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816388995245-mb7ocnna9297ljbn9niiclogbqask6ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI-l3pQeoGVcquyQoadat337F7HS5C9yA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

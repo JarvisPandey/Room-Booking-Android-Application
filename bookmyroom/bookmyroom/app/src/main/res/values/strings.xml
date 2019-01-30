@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Search Room</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="my_rooms">
+        <item>palasia</item>
+        <item>Rajendra nagar</item>
+        <item>vallabh nagar</item>
+        <item>South Tukoganj</item>
+        <item>Ab Road</item>
+        <item>Khajrana</item>
+        <item>Bhawarkua</item>
+        <item>Geeta Bhawan</item>
+
+    </string-array>
+    <string name="title_activity_letussee">letussee</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
